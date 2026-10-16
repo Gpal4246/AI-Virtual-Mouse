@@ -1,0 +1,11 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+
+audio/
+*.webm
+*.mp3
+*.mp4
